@@ -1,2 +1,2 @@
 # Anti-Nuke
-Bot made awile ago by extase#1337 and zier#4321 in coffeescript
+Anti made by extase#1337 and zier#4321 in coffeescript
