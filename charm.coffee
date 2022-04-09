@@ -4,7 +4,7 @@ require('dotenv').config()
 
 
 
-#made by crime if you skid give credits
+# if skidded give credits..
 
 
 
